@@ -9,7 +9,7 @@ Here;
 - $b$ denotes the amount of token B, and
 - $k$ is a constant (always).
 
-## How does it work?
+## How does it work?
 
 Let's say Alice wants to swap her 1 ETH to DAI.
 
