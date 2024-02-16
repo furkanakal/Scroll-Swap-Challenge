@@ -12,7 +12,7 @@ The Basic Swap Contract is designed to facilitate the very first idea of automat
 
 **Swap**
 - **Functionality:** The `swapExactTokensForTokens()` function from Uniswap V2 Router.
-- **How It Works:** When a user calls this function to swap some tokens, the contract checks if one of two tokens to be swapped is WETH. If so, it executes the swap by obeying the constant product formula (If you are not familiar, please see [DeFi-Guide](../DeFi_Guide.md)) directly. If not, then it adds WETH into the path as an intermediary so that the swap is executed in two stages.
+- **How It Works:** When a user calls this function to swap some tokens, the contract checks if one of two tokens to be swapped is WETH. If so, it executes the swap by obeying the constant product formula (If you are not familiar, please see [Formula](../Formula.md)) directly. If not, then it adds WETH into the path as an intermediary so that the swap is executed in two stages.
 
 ## Instructions
 
