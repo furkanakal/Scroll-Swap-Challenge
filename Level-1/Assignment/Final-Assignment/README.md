@@ -22,7 +22,7 @@ The Basic Swap Contract is designed to facilitate the very first idea of automat
 
 If you need help setting up your foundry project or you want to go over the commands of deploying, check out [Foundry-Exercise](./Foundry-Exercise.md)
 
-### Step 2: Write the Contract
+### Step 2: Write the Contract
 - **Uniswap V2 Router and WETH:** As discussed above, we need these two contracts.
 - **Swap Function:** Implement a `swap()` function for users to call and execute the swap.
 - **Interfaces:** Initialize the needed interfaces for Uniswap V2 Router and WETH.
