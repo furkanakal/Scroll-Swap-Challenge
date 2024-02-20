@@ -1,6 +1,6 @@
 # Building a Basic Swap Contract
 
-Welcome to Level n of your Smart Contract Development adventure! With a solid grasp of Solidity syntax under your belt, it's now time to put that knowledge into action. Your challenge is to craft an Ethereum lending, borrowing, and repayment contract. This is where theory meets practice, and where you start transforming lines of code into a functional blockchain application. Are you ready to embark on this exciting phase of your journey? Let's begin!
+Welcome to Level 1 of your Smart Contract Development adventure! With a solid grasp of Solidity syntax under your belt, it's now time to put that knowledge into action. Your challenge is to craft an Ethereum lending, borrowing, and repayment contract. This is where theory meets practice, and where you start transforming lines of code into a functional blockchain application. Are you ready to embark on this exciting phase of your journey? Let's begin!
 
 ## Objective
 
