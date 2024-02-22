@@ -1,7 +1,7 @@
-# 🚀 Level 1: Master the Basics! 🌟
-Welcome to Level 1!
+# 🚀 Level 2: Master the Uniswap V2 Router! 🌟
+Welcome to Level 2!
  
-Dive into the world of decentralized finance (DeFi) swap with this challenge, perfect for both beginners and seasoned coders. You'll start with the basics of DeFi swap, sharpen your Solidity syntax skills, and apply your knowledge using Foundry. Would you be ready to embark on this journey? 
+Dive into the world of the most used DEX's contract! Learn how the `swapExactTokensForTokens()` function we will use from Uniswap V2 Router works.
 
 Let's get started! 💪
 

@@ -23,7 +23,17 @@ contract BasicSwap {
      * @param _amountOutMin The minimum amount received
      * @param _to The address to receive
      */
-    // Build the function here...
+    /** Build the function: {
+        Transfer function from the WETH (ERC20) interface
+        Token approval
+
+        Swapping path
+
+        Conditional to define the path
+
+        swapExactTokensForTokens function
+    }
+     */
 }
 
 /**

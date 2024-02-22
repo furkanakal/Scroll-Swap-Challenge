@@ -6,12 +6,7 @@ pragma solidity ^0.8.7;
  */
 contract BasicSwap {
     /**
-     * @notice Address of Uniswap V2 Router contract
-     */
-    // Define the address here...
-
-    /**
-     * @notice Address of WETH token contract
+     * @notice Relevant contract addresses related to the interfaces
      */
     // Define the address here...
 
@@ -23,7 +18,7 @@ contract BasicSwap {
      * @param _amountOutMin The minimum amount received
      * @param _to The address to receive
      */
-    // Build the function here...
+    // Build the function
 }
 
 /**
