@@ -1,32 +1,26 @@
-# 🚀 Level 1: Master the Basics! 🌟
-Welcome to Level 1!
+# 🚀 Level 2: Build the Contract! 🌟
+Welcome to Level 2!
  
-Dive into the world of decentralized finance (DeFi) swap with this challenge, perfect for both beginners and seasoned coders. You'll start with the basics of DeFi swap, sharpen your Solidity syntax skills, and apply your knowledge using Foundry. Would you be ready to embark on this journey? 
+You learned how Uniswap V2 Router executes swaps in the Level 1. Now, it's time to build your swapping contract using `swapExactTokensForTokens()`.
 
 Let's get started! 💪
 
 ## High Level Structure
-**1. START WITH THE FUNDAMENTALS(CLICK BELOW)**
+**1. START WITH THE GUIDE(CLICK BELOW)**
 
-[<img alt="start here" width="250px" src="../images/defi_fundamentals.png" />](./Assignment/Formula.md)
+[<img alt="start here" width="250px" src="../images/defi_fundamentals.png" />](./Guide.md)
 
-**2. MOVE ON TO THE SYNTAX**
+**2. BUILD THE CONTRACTS**
 
-[<img alt="start here" width="250px" src="../images/syntax.png" />](./Assignment/Syntax.md)
+[<img alt="start here" width="250px" src="../images/contracts.png" />](./Assignment.md)
 
-**3. FINISH WITH THE CONTRACTS**
+1. Guide: Continue your journey with the guide. Here you'll find the relevant instructions on your contract.
 
-[<img alt="start here" width="250px" src="../images/contracts.png" />](./Assignment/Readme.md)
-
-1. DeFi Fundamentals: Begin your journey in the readings directory. Here you'll find the basic principles of automated market making.
-
-2. Syntax: Next, head to the syntax directory to refine your Solidity programming skills. This section is crucial for building a strong coding foundation.
-
-3. Final Assignment: Finally, advance to Final-Assignment directory. You can put your knowledge to the test by creating and deploying your own DeFi swap contract with Foundry.
+2. Assignment: Finally, advance to the assignment. You can put your knowledge to the test by creating and deploying your own DeFi swap contract with Foundry.
 
 ## Challenge Levels
 
-### Level 1: Mastering the Basics in Swapping
+### Level 2: Building the Contract
 
 #### 📚 `Formula`
 **Objective**: Dive deep into the world of DeFi automated market making. Here, you'll grasp the core concepts that form the backbone of decentralized swapping.
@@ -36,7 +30,7 @@ Let's get started! 💪
 - Brush up on your Solidity syntax and learn about state variables, functions, mappings, and more.
 - We've packed this folder with exercises and examples that will sharpen your coding skills.
 
-#### 🔧 Directory: `Final-Assignment`
+#### 🔧 `Assignment`
 **Objective**: Put theory into practice. It's time to get your hands dirty and build your basic swap contract using Foundry!
 - You'll start from scratch, and by the end, you'll have a working DeFi swap smart contract.
 - Follow the instructions within the directory to set up your environment, write your contract, and test it to perfection.
