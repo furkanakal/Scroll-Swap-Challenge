@@ -1,6 +1,6 @@
 # Level 1: Constant Product Formula and `swapExactTokensForTokens()` from Uniswap V2 Router
 
-Welcome to Level 1 of your swapping contract development adventure! After getting the fundamentals of our swap contract in Level-1, now we will explore a function from Uniswap V2 Router contract. Let's begin!
+Welcome to Level 1 of your swapping contract development adventure! We will explore a function from Uniswap V2 Router contract. Let's begin!
 
 ## Objective
 

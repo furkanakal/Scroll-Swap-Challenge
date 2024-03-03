@@ -1,28 +1,22 @@
-# 🚀 Level 2: Master the Uniswap V2 Router! 🌟
-Welcome to Level 2!
+# 🚀 Level 1: Master the Uniswap V2 Router! 🌟
+Welcome to Level 1!
  
 Dive into the world of the most used DEX's contract! Learn how the `swapExactTokensForTokens()` function we will use from Uniswap V2 Router works.
 
 Let's get started! 💪
 
 ## High Level Structure
-**1. START WITH THE FUNDAMENTALS(CLICK BELOW)**
+**1. START WITH THE GUIDE(CLICK BELOW)**
 
-[<img alt="start here" width="250px" src="../images/defi_fundamentals.png" />](./Assignment/Formula.md)
+[<img alt="start here" width="250px" src="../images/defi_fundamentals.png" />](./Guide.md)
 
-**2. MOVE ON TO THE SYNTAX**
+**2. BUILD THE CONTRACTS**
 
-[<img alt="start here" width="250px" src="../images/syntax.png" />](./Assignment/Syntax.md)
+[<img alt="start here" width="250px" src="../images/contracts.png" />](./Assignment.md)
 
-**3. FINISH WITH THE CONTRACTS**
+1. Guide: Begin your journey with the guide. Here you'll find the basic principles of automated market making.
 
-[<img alt="start here" width="250px" src="../images/contracts.png" />](./Assignment/Readme.md)
-
-1. DeFi Fundamentals: Begin your journey in the readings directory. Here you'll find the basic principles of automated market making.
-
-2. Syntax: Next, head to the syntax directory to refine your Solidity programming skills. This section is crucial for building a strong coding foundation.
-
-3. Final Assignment: Finally, advance to Final-Assignment directory. You can put your knowledge to the test by creating and deploying your own DeFi swap contract with Foundry.
+2. Assignment: Finally, advance to the assignment. You can put your knowledge to the test by creating and deploying your own DeFi swap contract with Foundry.
 
 ## Challenge Levels
 
@@ -36,7 +30,7 @@ Let's get started! 💪
 - Brush up on your Solidity syntax and learn about state variables, functions, mappings, and more.
 - We've packed this folder with exercises and examples that will sharpen your coding skills.
 
-#### 🔧 Directory: `Final-Assignment`
+#### 🔧 `Assignment`
 **Objective**: Put theory into practice. It's time to get your hands dirty and build your basic swap contract using Foundry!
 - You'll start from scratch, and by the end, you'll have a working DeFi swap smart contract.
 - Follow the instructions within the directory to set up your environment, write your contract, and test it to perfection.

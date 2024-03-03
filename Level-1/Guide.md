@@ -12,6 +12,4 @@ If you need help regarding with Foundry, please see: [Foundry-Exercise](./Foundr
 
 The syntax you will need for this assignment is limited to:
 1. Variables
-2. Mappings
-3. Functions
-4. Interfaces
+2. Functions
