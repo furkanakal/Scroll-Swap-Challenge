@@ -1,4 +1,5 @@
 # 🚀 Level 1: Master the Uniswap V2 Router! 🌟
+
 Welcome to Level 1!
  
 Dive into the world of the most used DEX's contract! Learn how the `swapExactTokensForTokens()` function we will use from Uniswap V2 Router works.
@@ -10,11 +11,11 @@ Let's get started! 💪
 
 [<img alt="start here" width="250px" src="../images/defi_fundamentals.png" />](./Guide.md)
 
-**2. BUILD THE CONTRACTS**
+**2. BUILD THE CONTRACTS(CLICK BELOW)**
 
 [<img alt="start here" width="250px" src="../images/contracts.png" />](./Assignment.md)
 
-1. Guide: Begin your journey with the guide. Here you'll find the basic principles of automated market making.
+1. Guide: Begin your journey with the guide. Here you'll find how to get started.
 
 2. Assignment: Finally, advance to the assignment. You can put your knowledge to the test by creating and deploying your own DeFi swap contract with Foundry.
 
@@ -49,6 +50,6 @@ Let's get started! 💪
 
 ## Conclusion
 
-This challenge isn't just about learning; it's about transforming yourself into a confident participant in the DeFi space. By the end of this challenge, you'll not only have a deeper understanding of DeFi lending but also hands-on experience in building a DeFi swap contract. So, are you ready to take on this challenge and emerge as a DeFi aficionado? Let's do this! 🚀🌟
+This mission isn't just about learning; it's about transforming yourself into a confident participant in the DeFi space. By the end of this mission, you'll not only have a deeper understanding of DeFi lending but also hands-on experience in building a DeFi swap contract. So, are you ready to take on this mission and emerge as a DeFi aficionado? Let's do this! 🚀🌟
 
-Remember, the journey is as rewarding as the destination. Embrace the challenge, and let's revolutionize the world of finance together! 💥💼📈
+Remember, the mission is as rewarding as the destination. Embrace the challenge, and let's revolutionize the world of finance together! 💥💼📈
