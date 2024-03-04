@@ -12,7 +12,7 @@ If you need help regarding with Foundry, please see: [Foundry-Exercise](./Foundr
 
 First of all, notice that ERC20 tokens are fungible. So each of an individual ERC20 token is completely indistinguishable than the other. For example, technically there is no difference between a USDT in my wallet and the one in yours.
 
-### What you need?
+### What you need?
 
 1. **Total Supply:** You should initialize the total supply of your token.
 2. **Balances:** You should store a balance value for each user.

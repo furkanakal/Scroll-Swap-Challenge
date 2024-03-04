@@ -6,13 +6,14 @@ All of you are probably familiar with tokens like WETH, USDT, USDC, and many oth
 
 Let's get started! 💪
 
-## High Level Structure
+## High Level Structure
 
 **1. START WITH THE GUIDE (CLICK BELOW)**
 
 [<img alt="Start Here" width= "250px" src="../images/guide.png" />](./Guide.md)
 
 **2. READ THE ASSIGNMENT (CLICK BELOW)**
+
 [<img alt="Start Here" width= "250px" src="../images/assignment.png" />](./Assignment.md)
 
 1. Guide: Begin your journey with the guide. Here you'll find the basic functionality of ERC20 tokens and how to get started.
