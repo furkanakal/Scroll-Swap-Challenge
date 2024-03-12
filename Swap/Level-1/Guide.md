@@ -62,3 +62,4 @@ The syntax you will need for this assignment is limited to:
 ## Further Reading
 
 1. [A Comprehensive Deep Dive to AMMs](https://medium.com/@arbnom/navigating-the-defi-landscape-a-comprehensive-deep-dive-to-amms-954020ec23b)
+2. [How Uniswap works](https://docs.uniswap.org/contracts/v2/concepts/protocol-overview/how-uniswap-works)
