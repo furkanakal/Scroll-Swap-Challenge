@@ -58,3 +58,7 @@ Swaps an exact amount of input tokens for as many output tokens as possible, alo
 The syntax you will need for this assignment is limited to:
 1. Variables
 2. Functions
+
+## Further Reading
+
+1. [A Comprehensive Deep Dive to AMMs](https://medium.com/@arbnom/navigating-the-defi-landscape-a-comprehensive-deep-dive-to-amms-954020ec23b)
