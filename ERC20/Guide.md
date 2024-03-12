@@ -27,3 +27,8 @@ First of all, notice that ERC20 tokens are fungible. So each of an individual ER
 
 1. Variables
 2. Functions
+
+## Further Reading
+
+1. [Beginner's Guide: What is ERC20?](https://www.blockchain-council.org/ethereum/beginners-guide-what-is-erc20/)
+2. [What Crypto Users Need to Know: The ERC20 Standard](https://www.investopedia.com/tech/why-crypto-users-need-know-about-erc20-token-standard/)
