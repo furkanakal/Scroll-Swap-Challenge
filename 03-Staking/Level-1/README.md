@@ -6,7 +6,7 @@ For many of you, the world of DeFi (Decentralized Finance) and staking might be 
 
 Let’s embark on this adventure! 🚀
 
-## High Level Structure
+## High Level Structure
 1. BEGIN WITH THE GUIDE (CLICK BELOW)
 
 <img alt="Start Here" width= "250px" src="../images/guide.png" />
