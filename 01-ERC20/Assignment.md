@@ -1,10 +1,10 @@
 # Assignment
 
-You're doing great! You;
+You're doing great! You have;
 1. initialized your Foundry project,
 2. learned what ERC20 tokens are
 3. grasped the functionality of ERC20 tokens,
-4. know what kind of Solidity syntax you will need.
+4. learned what kind of Solidity syntax you will need.
 
 ## Objective
 
