@@ -26,14 +26,14 @@ Staking is to lock some cryptocurrency tokens to earn reward. We will deep dive 
 
 `withdraw()` function transfers the denoted amount of staked ERC20 tokens to the user that call the function and emits an event called `Withdrawn()`.
 
-## Solidity
+## Solidity
 
 1. Interfaces
 2. Variables
 3. Functions
 4. Events
 
-## Further Reading
+## Further Reading
 
 1. [What is Crypto Staking?](https://www.britannica.com/money/what-is-crypto-staking/)
 2. [Crypto Staking 101](https://www.coindesk.com/learn/crypto-staking-101-what-is-staking/)
