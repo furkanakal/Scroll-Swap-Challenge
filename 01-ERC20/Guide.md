@@ -1,6 +1,6 @@
 # Guide
 
-Let's get you equipped. This guide will go over setting up your development environment and ERC20 token functionality.
+Let's get you equipped! This guide will go over setting up your development environment and ERC20 token functionality.
 
 ## Foundry
 
