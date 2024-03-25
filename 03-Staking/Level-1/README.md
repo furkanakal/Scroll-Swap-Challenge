@@ -19,7 +19,7 @@ Let’s embark on this adventure! 🚀
 
 2. Assignment: Move on to the hands-on assignment. You will apply your newfound knowledge by developing your own staking contract. This includes creating a contract that allows users to stake tokens and withdraw their stake. You’ll deploy this to the Scroll Sepolia Testnet using Foundry.
 
-## Challenge Levels
+## Challenge Level
 
 ### Level 1: Mastering the Basics of Staking
 
