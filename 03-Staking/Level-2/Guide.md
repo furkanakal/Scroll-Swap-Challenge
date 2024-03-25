@@ -48,7 +48,7 @@ This function, taking a user address as the input, will be used to return the am
 
 This one will be used to transfer the rewards of a user to their address. You need to make sure that this function is reentrancy-resistant.
 
-## Solidity
+## Solidity
 
 1. Interfaces
 2. Variables

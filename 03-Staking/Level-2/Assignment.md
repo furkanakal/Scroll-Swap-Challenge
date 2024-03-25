@@ -4,7 +4,7 @@ You're doing awesome! You have;
 1. learned what staking reward is and how it works,
 2. implemented a rewarding mechanism into your basic staking contract.
 
-## Objective
+## Objective
 
 Your task is to;
 1. define new necessary variables that you had learned in the Guide,
