@@ -24,8 +24,8 @@ Let’s embark on this adventure! 🚀
 
 ### Level 2: Mastering the Staking Rewards
 
-#### Building the `rewardPerToken()`, `earned()`, `claimReward()` Functions and Modifying the `stake()` and `withdraw()` Functions
+#### Building the `rewardPerToken()`, `earned()`, `claimReward()` Functions
 
 **Objective:** To make the contract have a rewarding mechanism.
 
-**Assignment:** Upon grasping the theory, put it into practice. Build the new functions and update the existing ones to enable the rewarding functionality.
+**Assignment:** Upon grasping the theory, put it into practice. Build the new functions and define the necessary variables.
